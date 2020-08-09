@@ -1,0 +1,19 @@
+{
+  "name": "PocServices",
+  "version": "1.0.0",
+  "summary": "Such a iOS framework",
+  "description": "Using for Multiple iOS app development which contains Webserevices",
+  "homepage": "https://github.com/BhaskarReddyModasta/POCServices",
+  "license": "MIT",
+  "authors": {
+    "Bhaskar Reddy": "bhaskar.nic.in@gmail.com"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://github.com/BhaskarReddyModasta/POCServices.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "POCServices/PocServices/**/*.{h,m}"
+}

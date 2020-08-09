@@ -1,0 +1,16 @@
+PODS:
+  - PocServices (1.0.0)
+
+DEPENDENCIES:
+  - PocServices (from `../POCServices/`)
+
+EXTERNAL SOURCES:
+  PocServices:
+    :path: "../POCServices/"
+
+SPEC CHECKSUMS:
+  PocServices: fe485183dca1c3cf4f26b41fefb108f1e378bcc1
+
+PODFILE CHECKSUM: b60e91d5e07755f3bbe38a9ccda66fcd8ce52ad5
+
+COCOAPODS: 1.9.3
