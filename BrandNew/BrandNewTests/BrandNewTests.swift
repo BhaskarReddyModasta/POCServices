@@ -1,15 +1,15 @@
 //
-//  POCServicesTests.swift
-//  POCServicesTests
+//  BrandNewTests.swift
+//  BrandNewTests
 //
 //  Created by Bhaskar Reddy on 09/08/20.
 //  Copyright © 2020 Bhaskar Reddy. All rights reserved.
 //
 
 import XCTest
-@testable import POCServices
+@testable import BrandNew
 
-class POCServicesTests: XCTestCase {
+class BrandNewTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
